@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Kisko V. Apeles"
-  avatar           : "/images/kisko1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/kisko1.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Data Science - Asian Institute of Management"
   location         : "PH"
   email            : "kiskoapeles@gmail.com"
