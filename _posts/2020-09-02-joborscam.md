@@ -6,7 +6,7 @@ header:
 excerpt: "by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
 mathjax: "true"
 ---
-"by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
+by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas
 
 ![png](/images/job_or_scam.png)
 
