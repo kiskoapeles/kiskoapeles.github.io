@@ -3,9 +3,10 @@ title: "JOB OR SCAM: Identifying Fraudulent Job Ads using Machine Learning"
 date: 2020-09-02
 tags: [data science, machine Learning, fraud, employment dataset, natural language processing]
 header:
-excerpt: "by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, Maynard Vargas"
+excerpt: "by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
 mathjax: "true"
 ---
+"by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
 
 ![png](/images/job_or_scam.png)
 
