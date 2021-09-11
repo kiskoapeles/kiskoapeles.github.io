@@ -6,10 +6,11 @@ header:
 excerpt: "by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
 mathjax: "true"
 ---
-<div align="justify">
 by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas
 
 ![png](/images/job_or_scam.png)
+
+<div align="justify">
 
 Last October 2019, the Department of Labor and Employment (DOLE) publicly warned all job seekers on the proliferation of fake local and overseas job listings in social media.
 
