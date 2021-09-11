@@ -22,7 +22,7 @@ The resulting classification is fed back to the pre-trained Mask R-CNN for it to
 
 References:
 - The World Bank: Trends in Solid Waste Management. Online; accessed 20 January 2021.
-https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html
+https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html.
 - Bharadwaj, A., Yadav, D., Varshney, S.: Non-biodegradable waste-its impact &safe disposal. Int. J. Adv. Technol. Eng. Sci 3(1) (2015).
 - Fractal Machine-Vision Research Group: Mask R-CNN Unmasked. Online; accessed 24 January 2021.
 https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296.
