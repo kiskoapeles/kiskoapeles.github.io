@@ -21,7 +21,6 @@ The resulting classification is fed back to the pre-trained Mask R-CNN for it to
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwPYAzhl7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
 References:
 - The World Bank: Trends in Solid Waste Management. Online; accessed 20 January 2021.
 https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html.
