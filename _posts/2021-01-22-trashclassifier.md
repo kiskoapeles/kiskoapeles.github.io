@@ -20,6 +20,8 @@ To contribute to the effort in solid waste segregation, we created a machine lea
 The resulting classification is fed back to the pre-trained Mask R-CNN for it to output the bounding box of the object and its classification. This model was implemented on both input image and video which will serve a great help to industrial waste management facilities.
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdwPYAzhl7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
 
 References:
 - The World Bank: Trends in Solid Waste Management. Online; accessed 20 January 2021.
