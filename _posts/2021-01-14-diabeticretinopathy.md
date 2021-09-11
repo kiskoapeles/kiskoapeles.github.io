@@ -11,7 +11,7 @@ by Kisko Apeles, Abel Cruzada, Leonard Limkaichong, and Queenie Mendez
 ![png](/images/diabetic_retinopathy.png)
 
 <p style="text-align:justify">
-Diabetic Retinopathy is one of the leading causes of blindness globally. It is a complication of diabetes that causes the retina to swell and when left untreated could cause blindness and visual loss. According to Retina International, over 400 million people are living with diabetes and roughly 10% of these are at risk of blindness due to Diabetic Retinopathy. However, regular screening and early detection of diabetic retinopathy can save millions of lives from blindness. Hence, **this project aims to help detect diabetic retinopathy with the help of big data and cloud computing**.
+Diabetic Retinopathy is one of the leading causes of blindness globally. It is a complication of diabetes that causes the retina to swell and when left untreated could cause blindness and visual loss. According to Retina International, over 400 million people are living with diabetes and roughly 10% of these are at risk of blindness due to Diabetic Retinopathy. However, regular screening and early detection of diabetic retinopathy can save millions of lives from blindness. Hence, <b>this project aims to help detect diabetic retinopathy with the help of big data and cloud computing</b>.
  </p>
 
 <p style="text-align:justify">
@@ -25,7 +25,7 @@ Using over 88,000 patient eye images from Kaggle which amounted to over 90 GB of
 5. Analysis of Results - Evaluation of the highest performing model using different metrics was done.
 
 <p style="text-align:justify">
-The final classifier neural network model achieved a **78.89%** test accuracy on unseen data which exceeded the 71.33% heuristic chance accuracy criteria. Overall, this model can help increase the efficiency of diabetic retinopathy diagnostis. More specifically, it can help:
+ The final classifier neural network model achieved a <b>78.89%</b> test accuracy on unseen data which exceeded the 71.33% heuristic chance accuracy criteria. Overall, this model can help increase the efficiency of diabetic retinopathy diagnostis. More specifically, it can help:
 </p>
   
 1. Patients and doctors in saving time and costs.
