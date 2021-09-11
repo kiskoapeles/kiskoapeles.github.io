@@ -6,6 +6,7 @@ header:
 excerpt: "by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas"
 mathjax: "true"
 ---
+<div align="justify">
 by Kisko Apeles, Ronald Dela Cruz, Nisarg Nigam, Ralph Palomaria, M Hwang, and Maynard Vargas
 
 ![png](/images/job_or_scam.png)
@@ -39,3 +40,4 @@ With that, we hope we can all help our fellow job seekers avoid being scammed an
 References:
 - Department of Labor and Employment. (Oct 13, 2019). Public warned on fake jobs. Retrieved Sept 01, 2020 from https://www.dole.gov.ph/news/public-warned-on-fake-jobs/
 - Crane, C. (Jan 28, 2020). Fake Jobs: Cybercriminals Prey on Job Seekers via Fake Job Postings. Retrieved Sept 01, 2020 from https://securityboulevard.com/2020/01/fake-jobs-cybercriminals-prey-on-job-seekers-via-fake-job-postings/
+</div>
