@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kisko V. Apeles"
+title                    : ""
 title_separator          : "-"
 name                     : "Kisko V. Apeles"
 description              : "Master of Science in Data Science \nAsian Institute of Management"
